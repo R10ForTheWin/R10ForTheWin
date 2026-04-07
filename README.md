@@ -60,7 +60,7 @@ I build applied AI agents for real-world coordination problems — mostly in spo
     </td>
   </tr>
   <tr>
-    <td align="center">🎨</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/R10ForTheWin/ai-agents/main/assets/deckie.png" width="60"></td>
     <td>
       <strong>Deckie</strong><br>
       AI tool that makes building decks faster and easier — intelligent gradients and backgrounds for presentation slides
