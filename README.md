@@ -52,7 +52,7 @@ I build applied AI agents for real-world coordination problems — mostly in spo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/R10ForTheWin/ai-agents/main/assets/map-quiz.svg" width="60">
+      <img src="https://raw.githubusercontent.com/R10ForTheWin/ai-agents/main/assets/map-quiz.png" width="60">
     </td>
     <td>
       <strong><a href="https://github.com/R10ForTheWin/map-quiz">Oreo's Map Quest</a></strong><br>
