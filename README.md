@@ -55,7 +55,7 @@ I build applied AI agents for real-world coordination problems — mostly in spo
       <img src="https://raw.githubusercontent.com/R10ForTheWin/ai-agents/main/assets/map-quiz.svg" width="60">
     </td>
     <td>
-      <strong><a href="https://github.com/R10ForTheWin/map-quiz">Map Quiz</a></strong><br>
+      <strong><a href="https://github.com/R10ForTheWin/map-quiz">Oreo's Map Quest</a></strong><br>
       Interactive geography learning tool for 5th graders — US and international
     </td>
   </tr>
