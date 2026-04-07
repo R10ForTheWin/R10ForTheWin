@@ -1,6 +1,6 @@
-### Hello! Thanks for taking a look
+### Hi, I'm DJ
 
-Here are some of the AI agents I have built to make daily tasks easier
+I build applied AI agents for real-world coordination problems — mostly in sports, media, and logistics.
 
 ---
 
@@ -29,7 +29,7 @@ Here are some of the AI agents I have built to make daily tasks easier
     </td>
     <td>
       <strong><a href="https://github.com/R10ForTheWin/reggie">Reggie</a></strong><br>
-      Mobile-first training management for swim and paddle teams
+      Mobile-first training management for swim teams
     </td>
   </tr>
   <tr>
