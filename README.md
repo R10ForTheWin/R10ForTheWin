@@ -1,6 +1,6 @@
-### Hi, I'm DJ
+### Hello! Thanks for taking a look
 
-I build applied AI agents for real-world coordination problems — mostly in sports, media, and logistics.
+Here are some of the AI agents I have built to make daily tasks easier
 
 ---
 
