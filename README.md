@@ -63,7 +63,7 @@ I build applied AI agents for real-world coordination problems — mostly in spo
     <td align="center">🎨</td>
     <td>
       <strong>Deckie</strong><br>
-      AI slide gradient tool — applies color overlays to presentation slides via OpenAI vision
+      AI tool that makes building decks faster and easier — intelligent gradients and backgrounds for presentation slides
     </td>
   </tr>
 </table>
